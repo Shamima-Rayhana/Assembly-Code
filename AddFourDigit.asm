@@ -8,7 +8,7 @@ b db ?
 ;Auther:Shamima Rayhana Rumi
 ;Date:16-04-2022
 ;Language:Assembly
-;Content:Addition of three digit
+;Content:Addition of four digit
 
 main proc
     mov ax,@data
