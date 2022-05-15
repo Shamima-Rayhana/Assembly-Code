@@ -34,7 +34,7 @@ MOV BX,[SI+2]
 MUL BX          ;AX*BX and store lower byte in AX and higher byte in DX register
 
 MOV [SI+4],AX
-MOV [SI+6],BX
+MOV [SI+6],DX
 HLT
 
 
